@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Zoey Espinoza <a href="[https://www.linkedin.com/in/zoey-espinoza](https://www.linkedin.com/in/zoeyvero/)"> LinkedIn</a>
+### Hi there 👋  I'm Zoey Espinoza <a href="https://www.linkedin.com/in/zoeyvero/"> LinkedIn</a>
 
 
 ### Skills and Expertise 
