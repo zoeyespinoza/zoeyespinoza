@@ -1,18 +1,18 @@
-### Hi there 👋  I'm Zoey Espinoza linkedin
+### Hi there 👋  I'm Zoey Espinoza <a href="https://www.linkedin.com/in/zoey-espinoza">Zoey Espinoza's LinkedIn Profile</a>
 
 
 ### Skills and Expertise 
-Programming Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
-Machine Learning: Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering, PCA)
-Data Science: Computer Vision, Time Series, 
-Deep Learning: Vertex AI, Tensorflow, Tableau 
+**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
+**Machine Learning:** Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering, PCA)
+**Data Science:** Computer Vision, Time Series, 
+**Deep Learning:** Vertex AI, Tensorflow, Tableau 
 
 ### Education
-Data Science Bootcamp	2023 - 2024
-TripleTen (10 months intensive)
+Data Science Bootcamp	| TripleTen (10 months intensive) | 2023 - 2024
 
-BA in Architecture minor in GIS	2013
-UC Berkeley
+
+BA in Architecture minor in GIS |	UC Berkeley | 2013
+
 
 
 <!--
