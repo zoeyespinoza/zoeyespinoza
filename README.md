@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Zoey Espinoza <a href="https://www.linkedin.com/in/zoeyvero/"> LinkedIn</a>
-I'm a Data Scientic and Analyst.
+I'm a Data Scientist and Analyst.
 ### Skills and Expertise 
 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
 
