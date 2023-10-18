@@ -10,6 +10,7 @@ Deep Learning: Vertex AI, Tensorflow, Tableau
 ### Education
 Data Science Bootcamp	2023 - 2024
 TripleTen (10 months intensive)
+
 BA in Architecture minor in GIS	2013
 UC Berkeley
 
