@@ -3,8 +3,11 @@
 
 ### Skills and Expertise 
 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
+
 **Machine Learning:** Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering, PCA)
+
 **Data Science:** Computer Vision, Time Series, 
+
 **Deep Learning:** Vertex AI, Tensorflow, Tableau 
 
 ### Education
