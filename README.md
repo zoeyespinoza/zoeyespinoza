@@ -1,7 +1,6 @@
 ### Hi there 👋  I'm Zoey Espinoza <a href="https://www.linkedin.com/in/zoeyvero/"> LinkedIn</a>
 I am a data scientist with a background in programming, machine learning, and data analysis. I have a proven track record of leveraging data to drive business success. I excel in collaborative environments and am committed to staying at the forefront of data science trends, always seeking opportunities to make a meaningful impact.
 
-This shorter introduction provides a snapshot of your skills and motivation, giving potential employers a quick overview of your qualifications.
 ### Skills and Expertise 
 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
 
