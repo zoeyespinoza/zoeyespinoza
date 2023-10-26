@@ -6,9 +6,9 @@ I am a data scientist with a passion for programming, machine learning, and data
 
 **Machine Learning:** Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering, PCA)
 
-**Data Science:** Computer Vision, Time Series, 
+**Data Science:** Computer Vision, Time Series
 
-**Deep Learning:** Vertex AI, Tensorflow, Tableau 
+**Deep Learning:** Vertex AI, Tensorflow 
 
 ### Education
 Data Science Bootcamp	| TripleTen (10 months intensive) | 2023 - 2024
