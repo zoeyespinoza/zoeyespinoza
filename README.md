@@ -4,7 +4,7 @@ I am a data scientist with a passion for programming, machine learning, and data
 ### Skills and Expertise 
 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
 
-**Machine Learning:** Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering, PCA), Reinforcement Learning, Natural Language Processing (NLTK, spaCy), XGBoost, LightGBM
+**Machine Learning:** Supervised ML (Linear Models, Tree-based Models), Unsupervised ML (Clustering), Reinforcement Learning, Natural Language Processing (NLTK, spaCy), XGBoost, LightGBM
 
 **Data Science Expertise:** Computer Vision, Time Series Analysis, Geospatial Analysis, Anomaly Detection, A/B Testing, Experimental Design, Feature Engineering, Data Preprocessing, Model Evaluation and Hyperparameter Tuning
 
