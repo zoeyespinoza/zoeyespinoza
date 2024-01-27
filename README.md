@@ -2,7 +2,7 @@
 I am a data scientist with a passion for programming, machine learning, and data analysis. I am adept at harnessing data-driven insights to enhance operational efficiency, identify growth opportunities, and refine business processes. Skilled in translating complex data sets into actionable strategies, I'm passionate about aiding organizations in making well-informed, future-oriented decisions. I thrive in collaborative settings and remain dedicated to keeping up with the latest trends in data science. I am always eager to apply my expertise and make a significant impact in meaningful ventures.
 
 ### Projects 
-Currently finishing my Data Science bootcamp with TripleTen 2024, wiith<a href="https://github.com/zoeyespinoza/Data_projects_TripleTen"> included applied projects</a>
+Currently finishing my Data Science bootcamp with TripleTen 2024, with included applied <a href="https://github.com/zoeyespinoza/Data_projects_TripleTen"> projects</a>
 ### Skills and Expertise 
 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, Seaborn), SQL, HTML, CSS
 
